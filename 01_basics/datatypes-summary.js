@@ -35,3 +35,13 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/*Stack => All Primitive Data Type
+      => Changes Done in Copy of a Variable
+      
+
+Heap => Non-Primitive Data Type
+    => Changes Done in Original Variable
+    */
